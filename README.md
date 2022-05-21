@@ -12,4 +12,4 @@ IDE: Processing
 
 A replica of the game "Fruit Ninja"
 
-![Gif of Game](https://github.com/Eden998/ProcessingProjects/blob/main/Fruit%20Ninja/images/fruitNinja.gif)
+![Gif of Game](https://github.com/Eden998/FruitNinja/blob/main/images/fruitNinja.gif)
